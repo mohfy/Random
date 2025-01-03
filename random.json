@@ -1,4 +1,6 @@
-{
-  "passsword": "John Doe",
-  "pasword": "Jane Smith"
-}
+[
+    {
+    "passsword": "John Doe",
+    "pasword": "Jane Smith"
+	}
+]
